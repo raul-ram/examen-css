@@ -1,0 +1,17 @@
+    .content{
+        padding: 20px;
+    }
+    .titulo{
+        padding: 20px;
+        background-color:#343434;
+    }
+
+    .titulo h1{
+        color: white;
+    }
+
+    .foot{
+        padding: 5px;
+        background-color:#343434;
+        color: white;
+    }

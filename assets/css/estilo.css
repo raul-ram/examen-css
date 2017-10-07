@@ -1,0 +1,19 @@
+.columns{
+    margin-top: 10px;
+}
+.column{
+    background-color: #656565;
+    color: white;
+    padding: 5px;
+}
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
